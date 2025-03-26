@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dependencia Tecnológica</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .music-widget {
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            z-index: 1000;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dependencia Tecnológica</h1>
+    </header>
+
+    <main>
+        <section>
+            <div class="titulo">¿Qué es la dependencia tecnológica?</div>
+            <p>La dependencia tecnológica se define como el uso excesivo y compulsivo de dispositivos digitales que afecta las actividades diarias y las relaciones personales.</p>
+        </section>
+
+        <section>
+            <div class="titulo">Síntomas y causas</div>
+            <ul>
+                <li><strong>Comportamiento compulsivo:</strong> Uso excesivo y pérdida de control del tiempo.</li>
+                <li><strong>Malestar y ansiedad:</strong> Irritabilidad al no tener acceso a la tecnología.</li>
+                <li><strong>Aislamiento social:</strong> Reducción del contacto cara a cara.</li>
+                <li><strong>Afectación del sueño:</strong> Insomnio y problemas de concentración.</li>
+                <li><strong>Cambios en el estado de ánimo:</strong> Tristeza e irritabilidad.</li>
+                <li><strong>Efectos físicos:</strong> Dolor de espalda, fatiga ocular, entre otros.</li>
+            </ul>
+            <img src="/M2L4/imagen/dependenciatec.jpg" alt="Persona usando tecnología en exceso">
+        </section>
+
+        <section>
+            <div class="titulo">Soluciones y prevención</div>
+            <ul>
+                <li><strong>Busca ayuda profesional:</strong> Psicólogos pueden ayudar a manejar la dependencia.</li>
+                <li><strong>Establece límites de tiempo:</strong> Reduce el uso de dispositivos.</li>
+                <li><strong>Realiza actividades sin tecnología:</strong> Ejercicio, lectura y actividades al aire libre.</li>
+                <li><strong>Socializa en persona:</strong> Fortalece relaciones cara a cara.</li>
+                <li><strong>Participa en actividades recreativas:</strong> Encuentra hobbies que disfrutes.</li>
+            </ul>
+        </section>
+
+        <section>
+            <div class="titulo">Tratamientos</div>
+            <p>Los tratamientos incluyen terapia cognitivo-conductual, programas de desintoxicación digital y apoyo familiar para mejorar la recuperación.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 - Información sobre la dependencia tecnológica</p>
+    </footer>
+
+    <!-- Elfsight Background Music | Untitled Background Music -->
+    <script src="https://static.elfsight.com/platform/platform.js" async></script>
+    <div class="elfsight-app-fec1cf1b-9854-46c3-a980-18f7a5c4f99f music-widget" data-elfsight-app-lazy></div>
+</body>
+</html>
